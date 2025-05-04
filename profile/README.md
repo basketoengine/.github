@@ -1,6 +1,7 @@
-<img src="LogoEngine.png" alt="Basketo Logo" width="200"/>
-
-# Basketo-Game-Engine
+<p align="center">
+  <img src="LogoEngine.png" alt="Basketo Logo" width="50" style="vertical-align: middle;"/>
+  <span style="font-size: 2em; vertical-align: middle; margin-left: 10px;"><strong>Basketo-Game-Engine</strong></span>
+</p>
 
 🎮 Building this game engine one basket at a time!  
 
