@@ -6,6 +6,10 @@
 
 Welcome to the Basketo-Game-Engine - a passion project where I’m putting my best shot into creating something awesome. Whether you’re here to contribute, suggest ideas, or just watch it grow, you’re part of the journey!
 
+## Current Status
+
+![Basketo Engine Screenshot](./editorscreenshot.png)
+
 ##  Get Involved
 
 - Found a bug? Open an issue!  
