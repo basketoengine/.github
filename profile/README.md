@@ -1,4 +1,4 @@
-<img src="LogoEngine.png" alt="Basketo Logo" width="200"/>
+<img src="EngineLogo-min.png" alt="Basketo Logo" width="200"/>
 
 # Basketo Game Engine (ON DEVELOPMENT)
 
