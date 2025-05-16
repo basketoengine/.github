@@ -1,12 +1,12 @@
 <img src="EngineLogo-min.png" alt="Basketo Logo" width="200"/>
 
-## I will Inegrate ChatGPT for VIBE game developers (⌐■_■)
+## I will Integrate ChatGPT for VIBE game developers (⌐■_■)
 
 # Basketo Game Engine
 
 Welcome to the Basketo Engine - a passion project where I’m putting my best shot into creating something awesome. Whether you’re here to contribute, suggest ideas, or just watch it grow, you’re part of the journey!
 
-## Click the below image to see Video
+## Click the image below to see the Video
 [![Basketo Engine Demo](image2.png)](https://x.com/BaslaelWorkneh/status/1922713614697288096)
 
 ## Building the Engine (Linux)
