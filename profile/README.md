@@ -1,16 +1,44 @@
 <img src="EngineLogo-min.png" alt="Basketo Logo" width="200"/>
 
-# Basketo Game Engine (ON DEVELOPMENT)
+## I will Inegrate ChatGPT for VIBE game developers (⌐■_■)
 
-🎮 Building this game engine one basket at a time!  
+# Basketo Game Engine
 
-Welcome to the Basketo-Game-Engine - a passion project where I’m putting my best shot into creating something awesome. Whether you’re here to contribute, suggest ideas, or just watch it grow, you’re part of the journey!
+Welcome to the Basketo Engine - a passion project where I’m putting my best shot into creating something awesome. Whether you’re here to contribute, suggest ideas, or just watch it grow, you’re part of the journey!
 
-## Current Status
+## Click the below image to see Video
+[![Basketo Engine Demo](image2.png)](https://x.com/BaslaelWorkneh/status/1922713614697288096)
 
-![Basketo Engine Screenshot](./editorscreenshot.png)
+## Building the Engine (Linux)
 
-##  Get Involved
+### Prerequisites
+- CMake >= 3.10
+- SDL2, SDL2_image, SDL2_ttf, SDL2_mixer
+- OpenGL
+- Lua 5.4
+- g++ (C++17)
+
+### Build Steps
+```bash
+# Clone the repository
+git clone git@github.com:basketoengine/Basketo.git
+cd Basketo
+mkdir build && cd build
+cmake ..
+make -j$(nproc)
+```
+
+### Running
+```bash
+./BasketoGameEngine
+```
+
+If you want to run the physics test:
+```bash
+./PhysicsTest
+```
+
+## Get Involved
 
 - Found a bug? Open an issue!  
 - Have a cool feature idea? Let’s hear it!  
