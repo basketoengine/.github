@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="readmeimgs/logo.png" alt="Basketo Game Engine Logo" width="200"/>
+    <img src="logo.png" alt="Basketo Game Engine Logo" width="200"/>
 </p>
 
 <h2 align="center">Create, Play, Inspire. Games Brought to Life. ✨</h2>
@@ -18,5 +18,5 @@ Welcome to the Basketo Engine - a passion project where I’m putting my best sh
 
 ## 🚀 Current State of the Engine
 <p align="center">
-  <img src="readmeimgs/image.png" alt="Current State of Basketo Engine" width="700"/>
+  <img src="image.png" alt="Current State of Basketo Engine" width="700"/>
 </p>
