@@ -1,53 +1,22 @@
-<img src="EngineLogo-min.png" alt="Basketo Logo" width="200"/>
+<p align="center">
+    <img src="readmeimgs/logo.png" alt="Basketo Game Engine Logo" width="200"/>
+</p>
 
-## I will Inegrate ChatGPT for VIBE game developers (⌐■_■)
+<h2 align="center">Create, Play, Inspire. Games Brought to Life. ✨</h2>
 
-# Basketo Game Engine
+<div align="center">
 
-Welcome to the Basketo Engine - a passion project where I’m putting my best shot into creating something awesome. Whether you’re here to contribute, suggest ideas, or just watch it grow, you’re part of the journey!
+[![Discord](https://img.shields.io/discord/1373185493742911609?logo=discord&label=Discord&color=5B5BD6&logoColor=white)](https://discord.gg/F3DswRMW) <!-- Replace your_discord_server_id with your actual server ID -->
+[![GitHub stars](https://img.shields.io/github/stars/basketoengine/Basketo?style=social)](https://github.com/basketoengine/Basketo)
+[![X (formerly Twitter)](https://img.shields.io/twitter/follow/BaslaelWorkneh?style=social&logo=x)](https://x.com/BaslaelWorkneh)
 
-## Click the below image to see Video
-[![Basketo Engine Demo](image2.png)](https://x.com/BaslaelWorkneh/status/1922713614697288096)
+</div>
 
-## Building the Engine (Linux)
+<p align="center">
+Welcome to the Basketo Engine - a passion project where I’m putting my best shot into creating something awesome and performant engine, with the exciting plan of making it an AI-Native game engine. Whether you’re here to contribute, suggest ideas, or just watch it grow, you’re part of the journey!
+</p>
 
-### Prerequisites
-- CMake >= 3.10
-- SDL2, SDL2_image, SDL2_ttf, SDL2_mixer
-- OpenGL
-- Lua 5.4
-- g++ (C++17)
-
-### Build Steps
-```bash
-# Clone the repository
-git clone git@github.com:basketoengine/Basketo.git
-cd Basketo
-mkdir build && cd build
-cmake ..
-make -j$(nproc)
-```
-
-### Running
-```bash
-./BasketoGameEngine
-```
-
-If you want to run the physics test:
-```bash
-./PhysicsTest
-```
-
-## Get Involved
-
-- Found a bug? Open an issue!  
-- Have a cool feature idea? Let’s hear it!  
-- Want to contribute? Fork, code, and create a pull request!  
-
-Let’s build this engine together and make game dev fun and easy for everyone.
-
-⭐ If you like the project, don’t forget to **star** and spread the word!
-
----
-
-Happy coding and game making!
+## 🚀 Current State of the Engine
+<p align="center">
+  <img src="readmeimgs/image.png" alt="Current State of Basketo Engine" width="700"/>
+</p>
